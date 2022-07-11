@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-11 02:26:37
+# UPDATED: 2022-07-12 02:29:07
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 51324
+# DOMAIN: 51325
 # DOMAIN-KEYWORD: 84
-# DOMAIN-SUFFIX: 71707
+# DOMAIN-SUFFIX: 71740
 # IP-CIDR: 255
 # URL-REGEX: 303
-# TOTAL: 123673
+# TOTAL: 123707
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -47342,6 +47342,7 @@ widget.nhaccuatui.com
 widget.pushbullet.com
 widget.scoutpa.com
 widget.stagram.com
+widget.trustpilot.com
 widget.whatshelp.io
 widget.wombo.gg
 widget.yavli.com
@@ -52647,6 +52648,7 @@ zzzrtrcm2.com
 .4exlkjnngs.com
 .4f2c852aeed4.com
 .4f2sm1y1ss.com
+.4f370501ac.com
 .4f6b2af479d337cf.com
 .4ggame8.com
 .4ggww.com
@@ -53052,6 +53054,7 @@ zzzrtrcm2.com
 .666672.xyz
 .666673.xyz
 .666674.xyz
+.666679.xyz
 .6666lm.com
 .6667778882021.site
 .6669667.com
@@ -53174,6 +53177,7 @@ zzzrtrcm2.com
 .703531862.vws.vegacdn.vn
 .706529.com
 .7080555.com
+.7080ys.top
 .70bhsd.cn
 .70e.com
 .70e.me
@@ -53466,7 +53470,9 @@ zzzrtrcm2.com
 .8800271.com.cn
 .88210212.com
 .884069349.ltd
+.884329.com
 .8848skins.com
+.885842.com
 .8866786.com
 .886721.com
 .887251.com
@@ -59202,6 +59208,7 @@ zzzrtrcm2.com
 .agreedrunawaysalty.com
 .agreementdarcypainless.com
 .agreenikeru.site
+.agregadorcode.com
 .agriculta.top
 .agriturismoilcascinone.com
 .agro.net.ru
@@ -59413,6 +59420,7 @@ zzzrtrcm2.com
 .aishiguolong.com
 .aishowbger.com
 .aistat.net
+.aistolsu.net
 .aitaoshegnqian.cn
 .aitehao.top
 .aivalabs.com
@@ -62272,7 +62280,6 @@ zzzrtrcm2.com
 .bannerignition.co.za
 .bannerimage.com
 .bannerimages.0catch.com
-.bannerku.xyz
 .bannerlandia.com.ar
 .bannerlot.com
 .bannermall.com
@@ -65183,6 +65190,7 @@ zzzrtrcm2.com
 .c2s.startappnetwork.com
 .c3.myapkcdn.in
 .c303.pw
+.c3113b90b1.com
 .c3h5cae95p.ru
 .c3metrics.com
 .c3metrics.medifast1.com
@@ -68119,6 +68127,7 @@ zzzrtrcm2.com
 .connect.flowroute.com
 .connect.frontier.com
 .connect.ftpresents.com
+.connect.idocdn.com
 .connect.imam-us.org
 .connect.intel.com
 .connect.lightriver.com
@@ -71052,6 +71061,7 @@ zzzrtrcm2.com
 .del-del-ete.com
 .del1.phillyburbs.com
 .delainlygoverhe.info
+.delayeddisembroildisembroil.com
 .delayyawn.com
 .delb.mspaceads.com
 .delecpuzz.com
@@ -75653,6 +75663,7 @@ zzzrtrcm2.com
 .falundata.org
 .fam-8.net
 .fam-ad.com
+.familialsimulation.com
 .familiarrod.com
 .familinger.club
 .family-joy.com
@@ -75882,6 +75893,7 @@ zzzrtrcm2.com
 .fclog.baidu.com
 .fcmatch.google.com
 .fcmatch.youtube.com
+.fcouvtlwzocok.com
 .fcrbsqtsuvexcsy.com
 .fcrdb.com
 .fcs.ovh
@@ -76606,6 +76618,7 @@ zzzrtrcm2.com
 .fmei.wang
 .fmgfqwe.xyz
 .fmgoal.com
+.fmjvsmavummyjnc.com
 .fmketang.cn
 .fmlodpskbybfu.xyz
 .fmnetwork.nl
@@ -78320,6 +78333,7 @@ zzzrtrcm2.com
 .gfn1.ugap.fr
 .gfncg.cn
 .gfnormal00aa.com
+.gfnormal00aj.com
 .gfnttldx.com
 .gforanoppo.com
 .gforasale.club
@@ -78432,6 +78446,7 @@ zzzrtrcm2.com
 .gheochecke.com
 .ghfsegbrj.com
 .ghghgf.51dongshi.com
+.ghhtt.top
 .ghimc.vn
 .ghjnpy.com
 .ghkjnrgqmmoa.xyz
@@ -78769,6 +78784,7 @@ zzzrtrcm2.com
 .gnatneatlyembodiment.com
 .gnaunbiu.rest
 .gnawinstruct.com
+.gnbunbiv.rest
 .gndrglsn.com
 .gnehataj.xyz
 .gneusqa.cn
@@ -78985,6 +79001,7 @@ zzzrtrcm2.com
 .gogolm.xyz
 .gogoplexer.com
 .gogousenet.com
+.gogpix.cn
 .gogvo.com
 .gohere.pl
 .gohillgo.com
@@ -79753,6 +79770,7 @@ zzzrtrcm2.com
 .gxunj.com
 .gxxcbj.com
 .gxymlqcnu.com
+.gxzhshop.com
 .gxzxiww.com
 .gybdtg.com
 .gybyxsy1588.com
@@ -80798,6 +80816,7 @@ zzzrtrcm2.com
 .historicalbeam.com
 .historicalrequest.com
 .histormedengi.site
+.hisxeywwpquys.top
 .hit-counter-download.com
 .hit-counter.info
 .hit-counter.udub.com
@@ -88893,6 +88912,7 @@ zzzrtrcm2.com
 .lvhqntk.cn
 .lvip.youku.com
 .lvjian66.com
+.lvjoe.pw
 .lvjvremluuej.com
 .lvkuaizi.com
 .lvkwz.com
@@ -90330,6 +90350,7 @@ zzzrtrcm2.com
 .mdialog.com
 .mdiyay.vseinstrumenti.ru
 .mdjdg.girlssohorny.net
+.mdjf9vh9.xyz
 .mdjxa.com
 .mdjxm.com
 .mdjxz.com
@@ -90794,6 +90815,7 @@ zzzrtrcm2.com
 .melinaeability.casa
 .melindahicks.xyz
 .mellategrannom.com
+.mellivoracode.com
 .mellodur.net
 .mellowads.com
 .mellowpresence.com
@@ -92655,6 +92677,7 @@ zzzrtrcm2.com
 .mtcat.cn
 .mtcvyv.sporx.com
 .mtefxnujk.xyz
+.mthdqs.cn
 .mtj.baidu.cn
 .mtj.baidu.com
 .mtkure.gazin.com.br
@@ -98774,6 +98797,7 @@ zzzrtrcm2.com
 .ppyibei.com
 .pq.stat.ku6.com
 .pqdhda.bluepops.co.kr
+.pqfgtp.cn
 .pqlcpm.kindoh.co.kr
 .pqn7.cheque-dejeuner.fr
 .pqnlorg.cn
@@ -99690,6 +99714,7 @@ zzzrtrcm2.com
 .puh.winniepuh.info
 .puhtml.com
 .puipui.ru
+.puitaexb.com
 .puklisi.ru
 .pukrazopchatka.com
 .pulingmu.top
@@ -100548,6 +100573,7 @@ zzzrtrcm2.com
 .qss-client.qq.com
 .qsstats.com
 .qstukqmsddqgs.com
+.qsxfsp.shop
 .qt.biqugezw.com
 .qt002x.corp.youdao.com
 .qtbb6.com
@@ -101470,6 +101496,7 @@ zzzrtrcm2.com
 .reflatepsoai.casa
 .reflectedcockbegan.com
 .reflectedenhanced.com
+.reflectedintegrity.com
 .reflectivereward.com
 .reflethenfortoft.info
 .reflexalright.com
@@ -102424,6 +102451,7 @@ zzzrtrcm2.com
 .roeraz.com
 .roewnand.biz
 .roeye.com
+.rofvjko.cn
 .rofwvvyp.com
 .rogew.com
 .roguefairfaxeminent.com
@@ -104577,6 +104605,7 @@ zzzrtrcm2.com
 .services.zam.com
 .services1.adtech.fr
 .services1.adtech.us
+.servicesrc.org
 .servicetick.com
 .serving-ad.tv24.vn
 .serving-sys.com
@@ -105302,6 +105331,7 @@ zzzrtrcm2.com
 .sipibowartern.com
 .sippansy.com
 .sippingsunned.com
+.siqwfy.cn
 .siqwqjza.m.yikanxiaoshuo.net
 .sirdata.io
 .siredonlacs.com
@@ -114292,6 +114322,7 @@ zzzrtrcm2.com
 .tyh.taobao.com
 .tyh887.com
 .tyingatmosphericprocess.com
+.tyiqebrbpxc.com
 .tyjawhesu.com
 .tyjnwa.top
 .tyjnwg.top
@@ -114939,6 +114970,7 @@ zzzrtrcm2.com
 .unlimitate.club
 .unlimited-media.co
 .unlitui.com
+.unloadpoetry.com
 .unlockr.com
 .unlomblam.pro
 .unluxioer.com
@@ -115426,6 +115458,7 @@ zzzrtrcm2.com
 .uu.zeverdg.com
 .uu0152q.cn
 .uu1.3gu.com
+.uu99k.com
 .uuaajohul.com
 .uuaauw.com
 .uuaoy.com
@@ -118015,7 +118048,6 @@ zzzrtrcm2.com
 .widget.socialmart.ru
 .widget.solarquotes.com.au
 .widget.tippebannere.no
-.widget.trustpilot.com
 .widget.utinet.ru
 .widget.weibo.com
 .widget.zenback.jp
@@ -121858,6 +121890,7 @@ zzzrtrcm2.com
 .yuubuslvsqhopkk.com
 .yuuuxi.top
 .yuuykrunvh.com
+.yuvvddt.cn
 .yuxiangrc.com
 .yuxiny.com
 .yuxyz.com
@@ -122240,6 +122273,7 @@ zzzrtrcm2.com
 .zeroredirect2.com
 .zeroredirect5.com
 .zeroredirect8.com
+.zerostats.com
 .zesdmn.com
 .zesep.com
 .zesod.cn

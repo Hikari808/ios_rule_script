@@ -1,72 +1,80 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-11 02:27:21
-# DOMAIN: 46017
+# UPDATED: 2022-07-12 02:30:01
+# DOMAIN: 46003
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 89593
+# DOMAIN-SUFFIX: 89635
 # IP-CIDR: 256
-# TOTAL: 136130
+# TOTAL: 136158
+3p-geo.yahoo.com
+3p-udc.yahoo.com
 46186911.vtt
-4f370501ac.com
-7080ys.top
 80055404.vtt
 absurdapple.com
+acceptabletally.com
+adfox.yandex.ru
 adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
-agregadorcode.com
-aistolsu.net
+adsdk.yandex.ru
+an.yandex.ru
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
+apple.www.letv.com
 applebarq.com
 applequan.com
 applescringe.com
+awaps.yandex.ru
 awsync.yandex.ru
+bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
-c3113b90b1.com
+bs.yandex.ru
+cckb.online
+collector2c.zhihuishu.com
+cookiex.ngd.yahoo.com
 crypta.js
+cytrd0.site
 d1stxfv94hrhia.cloudfront
-delayeddisembroildisembroil.com
 efficientapplesimulator.com
-fcouvtlwzocok.com
-fmjvsmavummyjnc.com
 fpb1.apple886.com
-ghhtt.top
-gnbunbiv.rest
-gxzhshop.com
+ganon.yahoo.com
+geo.yahoo.com
+gfnormal00an.com
+gncunbiw.rest
 https-apple.com
 iadsdk.apple.com
 ib.snssdk.com
+informer.yandex.ru
+jill.fc.yahoo.com
 jpaasne.e.shifen.com
+kdcegqtdrtij.com
+ljmzugo.cn
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
-mdjf9vh9.xyz
+mc.yandex.ru
 mediaappletree.com
 meitaolianmeng.ltd
-mellivoracode.com
 mm.n3w1d0ma1n
 mo.vlpyj.xy
-mthdqs.cn
+nfwtime.com
+nol.yahoo.com
 pr.comet.yahoo.com
-puitaexb.com
-qsxfsp.shop
-reflectedintegrity.com
-rofvjko.cn
+pv.sohu.com
 rrf.fat1domain1
-servicesrc.org
 shackapple.com
 stats.video.search.yahoo.com
 sub.powerapple.com
+supportmetrics.apple.com
+tcpcharms.com
+test.vast
 theapple.site
-tyiqebrbpxc.com
-unloadpoetry.com
+visit.webhosting.yahoo.com
 wzjs1.oss-accelerate.aliyuncs.com
 youtube.local
-yuvvddt.cn
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -45963,33 +45971,16 @@ yieldify-static-files.s3.amazonaws.com
 ymsdk.apkcar.com
 yume.com
 zen.sr
-3p-geo.yahoo.com
-3p-udc.yahoo.com
 ad.kddi-fs.com
-adfox.yandex.ru
-adsdk.yandex.ru
 amethyst.zappos.com
-an.yandex.ru
-apple.www.letv.com
-awaps.yandex.ru
-bats.video.yahoo.com
 bc34.wijnvoordeel.nl
-bs.yandex.ru
-collector2c.zhihuishu.com
-connect.idocdn.com
-cookiex.ngd.yahoo.com
 copilot-telemetry.githubusercontent.com
 data.guide.photobucket.com
 ea.epochbase.com
 events.framer.com
 ga.dx.com
-ganon.yahoo.com
-geo.yahoo.com
 gotie.tunein.com
-informer.yandex.ru
-jill.fc.yahoo.com
 log.kuwo.cn
-mc.yandex.ru
 metrics.apple.com
 metrics.cvs.com
 metrics.tbs.com
@@ -45997,9 +45988,7 @@ microlearning.att.com
 mon.us.tiktokv.com
 nasi.etherscan.com
 navigation-timing.meinestadt.de
-nol.yahoo.com
 ohm-dot-hackster-io.appspot.com
-pv.sohu.com
 pxl.indeed.com
 reports.tunein.com
 retcode.taobao.com
@@ -46014,14 +46003,11 @@ sstats.fintro.be9.kohls.com
 statistics.csob.cz
 stats.aerotime.aero
 sugar.zhihu.com
-supportmetrics.apple.com
 sv.aq.qq.com
 telemetry.firez.one
-test.vast
 tgt.maep.ibm.com
 track-visit.monday.com
 u299.libelle-lekker.be
-visit.webhosting.yahoo.com
 wl.jd.com
 zxvttq.goldapple.ru
 .0.code.cotsta.ru
@@ -46805,6 +46791,7 @@ zxvttq.goldapple.ru
 .4exlkjnngs.com
 .4f2c852aeed4.com
 .4f2sm1y1ss.com
+.4f370501ac.com
 .4f6b2af479d337cf.com
 .4ggame8.com
 .4girlsfingerpaint.com
@@ -47052,6 +47039,7 @@ zxvttq.goldapple.ru
 .666672.xyz
 .666673.xyz
 .666674.xyz
+.666679.xyz
 .6667778882021.site
 .666video.asia
 .668kbet.com
@@ -47119,6 +47107,7 @@ zxvttq.goldapple.ru
 .7029a88f0c.com
 .7029c575c3ee.com
 .703531862.vws.vegacdn.vn
+.7080ys.top
 .70bhsd.cn
 .70ee6484605f.com
 .70fp7880qz.cn
@@ -47295,7 +47284,9 @@ zxvttq.goldapple.ru
 .87fgr4.site
 .87uq.com
 .884069349.ltd
+.884329.com
 .8848skins.com
+.885842.com
 .886721.com
 .887251.com
 .887591.com
@@ -51030,6 +51021,7 @@ zxvttq.goldapple.ru
 .agreeabletouch.com
 .agreedrunawaysalty.com
 .agreementdarcypainless.com
+.agregadorcode.com
 .agriculta.top
 .agriturismoilcascinone.com
 .agro.net.ru
@@ -51172,6 +51164,7 @@ zxvttq.goldapple.ru
 .aisastore.club
 .aiservice.vn
 .aistat.net
+.aistolsu.net
 .aitaoshegnqian.cn
 .aitehao.top
 .aivalabs.com
@@ -53201,7 +53194,6 @@ zxvttq.goldapple.ru
 .bannerignition.co.za
 .bannerimage.com
 .bannerimages.0catch.com
-.bannerku.xyz
 .bannerlandia.com.ar
 .bannerlot.com
 .bannermall.com
@@ -55301,6 +55293,7 @@ zxvttq.goldapple.ru
 .c2s.startappnetwork.com
 .c3.myapkcdn.in
 .c303.pw
+.c3113b90b1.com
 .c3h5cae95p.ru
 .c3metrics.com
 .c3t-system-err.club
@@ -57268,6 +57261,7 @@ zxvttq.goldapple.ru
 .conjunctionbanner.com
 .connatix.com
 .connead.net
+.connect.idocdn.com
 .connectad.io
 .connectedit.co
 .connectier.io
@@ -59311,6 +59305,7 @@ zxvttq.goldapple.ru
 .dejionsite.pro
 .del-del-ete.com
 .del1.phillyburbs.com
+.delayeddisembroildisembroil.com
 .delayyawn.com
 .delb.mspaceads.com
 .delecpuzz.com
@@ -62228,6 +62223,7 @@ zxvttq.goldapple.ru
 .faluhupo.xyz
 .fam-8.net
 .fam-ad.com
+.familialsimulation.com
 .familiarrod.com
 .familinger.club
 .familyabroad.net
@@ -62381,6 +62377,7 @@ zxvttq.goldapple.ru
 .fckjoujpsna.xyz
 .fcmatch.google.com
 .fcmatch.youtube.com
+.fcouvtlwzocok.com
 .fcrbsqtsuvexcsy.com
 .fcs.ovh
 .fcstats.altervista.org
@@ -62930,6 +62927,7 @@ zxvttq.goldapple.ru
 .fmebili.info
 .fmei.wang
 .fmgfqwe.xyz
+.fmjvsmavummyjnc.com
 .fmketang.cn
 .fmlodpskbybfu.xyz
 .fmnetwork.nl
@@ -64111,6 +64109,7 @@ zxvttq.goldapple.ru
 .gflcsiot.com
 .gfncg.cn
 .gfnormal00aa.com
+.gfnormal00aj.com
 .gfnttldx.com
 .gforanoppo.com
 .gforasale.club
@@ -64158,6 +64157,7 @@ zxvttq.goldapple.ru
 .gheochecke.com
 .ghfsegbrj.com
 .ghghgf.51dongshi.com
+.ghhtt.top
 .ghimc.vn
 .ghjnpy.com
 .ghkjnrgqmmoa.xyz
@@ -64417,6 +64417,7 @@ zxvttq.goldapple.ru
 .gnatneatlyembodiment.com
 .gnaunbiu.rest
 .gnawinstruct.com
+.gnbunbiv.rest
 .gndrglsn.com
 .gnehataj.xyz
 .gnezdo.ru
@@ -64526,6 +64527,7 @@ zxvttq.goldapple.ru
 .goggle.com
 .gogoplexer.com
 .gogousenet.com
+.gogpix.cn
 .gogvo.com
 .gohere.pl
 .gohillgo.com
@@ -65102,6 +65104,7 @@ zxvttq.goldapple.ru
 .gxtytj.com
 .gxxcbj.com
 .gxymlqcnu.com
+.gxzhshop.com
 .gxzxiww.com
 .gybyxsy1588.com
 .gyccdnydir.com
@@ -65825,6 +65828,7 @@ zxvttq.goldapple.ru
 .hisnote.cc
 .histock.info
 .historicalbeam.com
+.hisxeywwpquys.top
 .hit-counter-download.com
 .hit-counter.info
 .hit-counter.udub.com
@@ -71191,6 +71195,7 @@ zxvttq.goldapple.ru
 .lv-xin.cn
 .lvecygampj.com
 .lvhqntk.cn
+.lvjoe.pw
 .lvjvremluuej.com
 .lvkwz.com
 .lvntekpejrmtb.com
@@ -71889,6 +71894,7 @@ zxvttq.goldapple.ru
 .mdgzg.com
 .mdialog.com
 .mdjdg.girlssohorny.net
+.mdjf9vh9.xyz
 .mdjxa.com
 .mdjxm.com
 .mdjxz.com
@@ -72145,6 +72151,7 @@ zxvttq.goldapple.ru
 .melinaeability.casa
 .melindahicks.xyz
 .mellategrannom.com
+.mellivoracode.com
 .mellodur.net
 .mellowads.com
 .mellowpresence.com
@@ -73226,6 +73233,7 @@ zxvttq.goldapple.ru
 .mtburn.com
 .mtburn.jp
 .mtefxnujk.xyz
+.mthdqs.cn
 .mtlkwvaybo.com
 .mtlog.droid4x.cn
 .mto.cgv.vn
@@ -77630,6 +77638,7 @@ zxvttq.goldapple.ru
 .ppxbsbluutiwc.xyz
 .ppxldikxksuo.com
 .ppyibei.com
+.pqfgtp.cn
 .pqorwmmlkf.com
 .pqrtd9hhtu9x.info
 .pqsjb.cn
@@ -78349,6 +78358,7 @@ zxvttq.goldapple.ru
 .puh.winniepuh.info
 .puhtml.com
 .puipui.ru
+.puitaexb.com
 .puklisi.ru
 .pulingmu.top
 .pulleymarketing.com
@@ -78920,6 +78930,7 @@ zxvttq.goldapple.ru
 .qsnyswg.cn
 .qsstats.com
 .qstukqmsddqgs.com
+.qsxfsp.shop
 .qtbb6.com
 .qtd95fj.online
 .qthynj2.com
@@ -79611,6 +79622,7 @@ zxvttq.goldapple.ru
 .reflatepsoai.casa
 .reflectedcockbegan.com
 .reflectedenhanced.com
+.reflectedintegrity.com
 .reflethenfortoft.info
 .reflexalright.com
 .reflushneuma.com
@@ -80358,6 +80370,7 @@ zxvttq.goldapple.ru
 .roeraz.com
 .roewnand.biz
 .roeye.com
+.rofvjko.cn
 .rofwvvyp.com
 .rogew.com
 .roguefairfaxeminent.com
@@ -81679,6 +81692,7 @@ zxvttq.goldapple.ru
 .services.zam.com
 .services1.adtech.fr
 .services1.adtech.us
+.servicesrc.org
 .serving-ad.tv24.vn
 .serving-system.com
 .servingshade.com
@@ -82194,6 +82208,7 @@ zxvttq.goldapple.ru
 .sipibowartern.com
 .sippansy.com
 .sippingsunned.com
+.siqwfy.cn
 .sirdata.io
 .siredonlacs.com
 .sireundermineoperative.com
@@ -86872,6 +86887,7 @@ zxvttq.goldapple.ru
 .tygafso.com
 .tyh887.com
 .tyingatmosphericprocess.com
+.tyiqebrbpxc.com
 .tyjawhesu.com
 .tyjnwa.top
 .tyjnwg.top
@@ -87305,6 +87321,7 @@ zxvttq.goldapple.ru
 .unlikelybeside.com
 .unlimitate.club
 .unlimited-media.co
+.unloadpoetry.com
 .unlockr.com
 .unluxioer.com
 .unmetalised.com
@@ -87650,6 +87667,7 @@ zxvttq.goldapple.ru
 .utxdtismojqk.xyz
 .uu.domainforlite.com
 .uu1.3gu.com
+.uu99k.com
 .uuaajohul.com
 .uuaauw.com
 .uuaoy.com
@@ -89564,7 +89582,6 @@ zxvttq.goldapple.ru
 .widget.shopstyle.com
 .widget.socialmart.ru
 .widget.tippebannere.no
-.widget.trustpilot.com
 .widget.utinet.ru
 .widget.zenback.jp
 .widgetbucks.com
@@ -92049,6 +92066,7 @@ zxvttq.goldapple.ru
 .yuubuslvsqhopkk.com
 .yuuuxi.top
 .yuuykrunvh.com
+.yuvvddt.cn
 .yuyinqs.com
 .yvatswzotstdve.com
 .yvfnb.cn
@@ -92312,6 +92330,7 @@ zxvttq.goldapple.ru
 .zeroredirect2.com
 .zeroredirect5.com
 .zeroredirect8.com
+.zerostats.com
 .zesdmn.com
 .zesep.com
 .zestads.com
@@ -105741,7 +105760,6 @@ zxvttq.goldapple.ru
 .660a755deb8829fe.com
 .661291.com
 .6613167.cn
-.666679.xyz
 .668559.com
 .66ce98158e4f402.com
 .66wen.com
@@ -107552,6 +107570,7 @@ zxvttq.goldapple.ru
 .assets-secure.applicaster.com
 .assets-v2.yieldify-production.com
 .assets.abbi.io
+.assets.anzuinfra.com
 .assets.locuslabs.com
 .assets.minutemediacdn.com
 .assets.purch.com
@@ -108493,6 +108512,7 @@ zxvttq.goldapple.ru
 .capcap621.cn
 .capodannoinversilia.com
 .cappushino.com
+.caps-server.anzu.io
 .captifymedia.com
 .capture.crutchfield.com
 .capybara.bell0bytes.eu
@@ -108938,6 +108958,7 @@ zxvttq.goldapple.ru
 .cjlqwfpkwi.com
 .cjmob.com
 .cjv2gt.cn
+.cjwtkm.cn
 .cjyjqw.cn
 .ck.zzipps.com
 .ckct.ru
@@ -110358,6 +110379,7 @@ zxvttq.goldapple.ru
 .doglobal.net
 .doit.kccqgj.cn
 .doja.worten.es
+.dokawd.cn
 .doklln.lumecube.com
 .dolgotok.pro
 .dolohatum.com
@@ -110529,6 +110551,7 @@ zxvttq.goldapple.ru
 .dxeldq.madeindesign.com
 .dxwhyp.com
 .dyhs52.com
+.dynamic-l1.anzuinfra.com
 .dynamicserving.com
 .dynamicyield.com
 .dynamitematerialisticwriting.com
@@ -110910,6 +110933,7 @@ zxvttq.goldapple.ru
 .emotionpiousconformity.com
 .emotir.pcone.com.tw
 .empowerclemencyjoggle.com
+.emqx.anzuinfra.com
 .ems.cp12.wasu.tv
 .emsecure.net
 .emu.andenglish.co
@@ -111127,6 +111151,7 @@ zxvttq.goldapple.ru
 .eventful.com
 .eventifiederik.pro
 .eventos.lp.deloittecomunicacao.com.br
+.events.anzuinfra.com
 .events.axa-im.com
 .events.bouncex.net
 .events.engager.ecbsn.com
@@ -111935,7 +111960,6 @@ zxvttq.goldapple.ru
 .gfdfhdh5t5453.com
 .gfftsqrc.com
 .gfgcwf.vidaxl.lv
-.gfnormal00aj.com
 .gg.1whour.com
 .gg.huolinhe.com
 .gg.xszcdn.com
@@ -112091,7 +112115,6 @@ zxvttq.goldapple.ru
 .goemotify.com
 .gofile.io
 .gogool.ru
-.gogpix.cn
 .gohappy.com.tw
 .golderotica.com
 .goldfish.boleary.dev
@@ -112845,6 +112868,7 @@ zxvttq.goldapple.ru
 .icaubf.casamundo.de
 .iceban.su
 .icebns.com
+.iceplant.hk
 .icgirls.com
 .iche88.cn
 .ichecknotifyfriends.info
@@ -112877,6 +112901,7 @@ zxvttq.goldapple.ru
 .if-yn.com
 .ifacus.akivasuperfoods.com
 .ifc58.com
+.ifdcvns.cn
 .ifeuddaywa.com
 .iffalh.y-aoyama.jp
 .ifi-trk.informa.com
@@ -113974,6 +113999,7 @@ zxvttq.goldapple.ru
 .krs1v2sl.com
 .krwzck.sharelytics.co
 .ks42zt.spec.fm
+.ksadrewrty.com
 .ksfubacmhdcc.com
 .ksjrehefupsrkz.com
 .ksxcxb.cn
@@ -114021,8 +114047,10 @@ zxvttq.goldapple.ru
 .kzsicw.netmoms.de
 .l.rated.sex
 .l07m8gu.cn
+.l1-1.anzu.io
 .l29qi.xyz
 .l2wisd9g5d9u.com
+.l3-2.anzuinfra.com
 .l4meet.com
 .l520.ltd
 .l5fvoqimjfug.com
@@ -114417,6 +114445,7 @@ zxvttq.goldapple.ru
 .logconf.iflytek.com
 .logger.foxitcloud.com
 .logging.fishsticksgames.com
+.logic.anzuinfra.com
 .loginfra.com
 .logitepic.com
 .logs-01.loggly.com
@@ -114541,7 +114570,6 @@ zxvttq.goldapple.ru
 .lvetpermina.space
 .lvgvax82bp.com
 .lvidqa.unisportstore.de
-.lvjoe.pw
 .lvqnychauf.com
 .lvxingxian.cn
 .lvyabgbohlv.com
@@ -117914,7 +117942,6 @@ zxvttq.goldapple.ru
 .ppvabs.pplive.com
 .pqciix.busuu.com
 .pqezdo.cn
-.pqfgtp.cn
 .pqiicj.misterspex.se
 .pqrede.fiatprofessional.com
 .pqxadekhqotwkv.com
@@ -118831,6 +118858,7 @@ zxvttq.goldapple.ru
 .rovenancyde.top
 .roverinvolv.bid
 .rovuditho.pro
+.rowemfg.com
 .rowframemailer.com
 .rowherthat.ru
 .rowsrm.atasunoptik.com.tr
@@ -119824,7 +119852,6 @@ zxvttq.goldapple.ru
 .sinmo.chasecenter.com
 .sioncenture.fun
 .siplyresox.com
-.siqwfy.cn
 .siradsalot.com
 .sis8.sisley-paris.com
 .sisdtb.climatempo.com.br
@@ -123016,7 +123043,6 @@ zxvttq.goldapple.ru
 .utubeconverter.com
 .utxokv.emp.co.uk
 .uu7ey6.cn
-.uu99k.com
 .uucm.cn
 .uudbvq.skuola.net
 .uuff.com
@@ -123608,6 +123634,7 @@ zxvttq.goldapple.ru
 .widget.surveymonkey.com
 .widget.teletype.app
 .widget.textback.io
+.widget.trustpilot.com
 .widget.webica.pro
 .widget.whatshelp.io
 .widget.zoorate.com
@@ -124235,6 +124262,7 @@ zxvttq.goldapple.ru
 .ydbmligdloqmqi.com
 .ydcpc.com
 .ydgaopinlu.com
+.ydhwhz.cn
 .ydlwrwbjosjycn.com
 .ydomaineda.club
 .ydrboq.stockx.com

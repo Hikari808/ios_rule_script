@@ -1,8 +1,8 @@
 ! Title: Advertising
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-07-11 02:26:38
-! Total: 123031
+! Updated: 2022-07-12 02:29:08
+! Total: 123065
 
 
 ||0.code.cotsta.ru^
@@ -1204,6 +1204,7 @@
 ||4exlkjnngs.com^
 ||4f2c852aeed4.com^
 ||4f2sm1y1ss.com^
+||4f370501ac.com^
 ||4f6b2af479d337cf.com^
 ||4f6c963f07f67bd.com^
 ||4ggame8.com^
@@ -1728,6 +1729,7 @@
 ||666672.xyz^
 ||666673.xyz^
 ||666674.xyz^
+||666679.xyz^
 ||6667778882021.site^
 ||666video.asia^
 ||668kbet.com^
@@ -1831,6 +1833,7 @@
 ||7029a88f0c.com^
 ||7029c575c3ee.com^
 ||703531862.vws.vegacdn.vn^
+||7080ys.top^
 ||70bhsd.cn^
 ||70ee6484605f.com^
 ||70fp7880qz.cn^
@@ -2077,8 +2080,10 @@
 ||87fgr4.site^
 ||87uq.com^
 ||884069349.ltd^
+||884329.com^
 ||884545gf.ahdaaf.org^
 ||8848skins.com^
+||885842.com^
 ||886721.com^
 ||887251.com^
 ||887591.com^
@@ -7521,6 +7526,7 @@
 ||agreement4.gdmachinery.net^
 ||agreement7.gdmachinery.net^
 ||agreementdarcypainless.com^
+||agregadorcode.com^
 ||agricolamarsole.com^
 ||agriculta.top^
 ||agrimmreality.com^
@@ -7752,6 +7758,7 @@
 ||aiservice.vn^
 ||aisiansex.com^
 ||aistat.net^
+||aistolsu.net^
 ||aiswholesale.com^
 ||aitaoshegnqian.cn^
 ||aitdwhmcvlm.com^
@@ -11601,7 +11608,6 @@
 ||bannerimage.com^
 ||bannerimages.0catch.com^
 ||bannerjammers.com^
-||bannerku.xyz^
 ||bannerlandia.com.ar^
 ||bannerlink.xxxtreams.com^
 ||bannerlot.com^
@@ -15291,6 +15297,7 @@
 ||c3.outster.com^
 ||c3.thecounter.com^
 ||c303.pw^
+||c3113b90b1.com^
 ||c3h5cae95p.ru^
 ||c3metrics.com^
 ||c3t-system-err.club^
@@ -19077,6 +19084,7 @@
 ||conjunctionbanner.com^
 ||connatix.com^
 ||connead.net^
+||connect.idocdn.com^
 ||connect.secure.vdr35.com^
 ||connect5364.com^
 ||connectad.io^
@@ -22350,6 +22358,7 @@
 ||del-del-ete.com^
 ||del-marine.com^
 ||del1.phillyburbs.com^
+||delayeddisembroildisembroil.com^
 ||delayyawn.com^
 ||delb.mspaceads.com^
 ||delb.myspace.com^
@@ -27786,6 +27795,7 @@
 ||fame.web24news.com^
 ||fameboxagro.com^
 ||famfight.com^
+||familialsimulation.com^
 ||familiarfloor.com^
 ||familiarrod.com^
 ||familiekoning.net^
@@ -28132,6 +28142,7 @@
 ||fcmatch.youtube.com^
 ||fcnmbnig.com^
 ||fcolors.blogspot.com^
+||fcouvtlwzocok.com^
 ||fcpispplqq.com^
 ||fcrbsqtsuvexcsy.com^
 ||fcs.ovh^
@@ -29345,6 +29356,7 @@
 ||fmgpakistan.com^
 ||fmi-location-support.com^
 ||fmirgordkhig.xyz^
+||fmjvsmavummyjnc.com^
 ||fmketang.cn^
 ||fmlodpskbybfu.xyz^
 ||fmnetwork.nl^
@@ -31985,6 +31997,7 @@
 ||gflcsiot.com^
 ||gfncg.cn^
 ||gfnormal00aa.com^
+||gfnormal00aj.com^
 ||gfnttldx.com^
 ||gforanoppo.com^
 ||gforasale.club^
@@ -32069,6 +32082,7 @@
 ||ghfsegbrj.com^
 ||ghghgf.51dongshi.com^
 ||ghgmtcrluvghlwc91.com^
+||ghhtt.top^
 ||ghimc.vn^
 ||ghjlhnbc.com^
 ||ghjnpy.com^
@@ -32530,6 +32544,7 @@
 ||gnatneatlyembodiment.com^
 ||gnaunbiu.rest^
 ||gnawinstruct.com^
+||gnbunbiv.rest^
 ||gnbzonaseguraweb.com^
 ||gncfttutoiwwq.com^
 ||gndrglsn.com^
@@ -32723,6 +32738,7 @@
 ||gogogossip.com^
 ||gogoplexer.com^
 ||gogousenet.com^
+||gogpix.cn^
 ||gogvo.com^
 ||gohere.pl^
 ||gohijrah.com^
@@ -33832,6 +33848,7 @@
 ||gxxsqeqlepva.com^
 ||gxymlqcnu.com^
 ||gxzfpusmd.com^
+||gxzhshop.com^
 ||gxzxiww.com^
 ||gyalkingerz.com^
 ||gybyxsy1588.com^
@@ -35429,6 +35446,7 @@
 ||historykill.com^
 ||historyofnaiknimbalkar.com^
 ||historyshort.net^
+||hisxeywwpquys.top^
 ||hit-counter-download.com^
 ||hit-counter.5u.com^
 ||hit-counter.info^
@@ -45335,6 +45353,7 @@
 ||lvehrzkgzanurn.com^
 ||lvhqntk.cn^
 ||lvhxebdxz.com^
+||lvjoe.pw^
 ||lvjvremluuej.com^
 ||lvkwz.com^
 ||lvldcxnq.com^
@@ -46684,6 +46703,7 @@
 ||mdgzg.com^
 ||mdialog.com^
 ||mdjdg.girlssohorny.net^
+||mdjf9vh9.xyz^
 ||mdjpslohaibhojpur.com^
 ||mdjxa.com^
 ||mdjxm.com^
@@ -47132,6 +47152,7 @@
 ||melisabitkiselurunler.com^
 ||melissaolsonmarketing.com^
 ||mellategrannom.com^
+||mellivoracode.com^
 ||mellodur.net^
 ||mellowads.com^
 ||mellowpresence.com^
@@ -49249,6 +49270,7 @@
 ||mtefxnujk.xyz^
 ||mtfopqsufagxy.com^
 ||mtfreshfoods.com^
+||mthdqs.cn^
 ||mtklywkg.com^
 ||mtlieuvyoikf.com^
 ||mtlkwvaybo.com^
@@ -57465,6 +57487,7 @@
 ||pqajjgjg.com^
 ||pqaqnngeoyqejj.com^
 ||pqdysthxgrpz.com^
+||pqfgtp.cn^
 ||pqkorfrurnn.com^
 ||pqorwmmlkf.com^
 ||pqoznetbeeza.com^
@@ -58686,6 +58709,7 @@
 ||puh.winniepuh.info^
 ||puhtml.com^
 ||puipui.ru^
+||puitaexb.com^
 ||puklisi.ru^
 ||pulingmu.top^
 ||puliyampillynamboothiri.com^
@@ -59647,6 +59671,7 @@
 ||qsstats.com^
 ||qstnwpjfdgrlkhv.xyz^
 ||qstukqmsddqgs.com^
+||qsxfsp.shop^
 ||qtahsbgdqbu.com^
 ||qtavukgrtgk.com^
 ||qtbb6.com^
@@ -60852,6 +60877,7 @@
 ||reflatepsoai.casa^
 ||reflectedcockbegan.com^
 ||reflectedenhanced.com^
+||reflectedintegrity.com^
 ||reflethenfortoft.info^
 ||reflexalright.com^
 ||reflushneuma.com^
@@ -62083,6 +62109,7 @@
 ||roeye.com^
 ||rofhathe.com^
 ||rofurekika.com^
+||rofvjko.cn^
 ||rofwvvyp.com^
 ||rogerhsherman.com^
 ||rogerreupertsopa.com^
@@ -64590,6 +64617,7 @@
 ||serviceseaser.com^
 ||servicesingnaletboa.com^
 ||servicesnext.net^
+||servicesrc.org^
 ||serviceswellness.com^
 ||servicioclientepant8.com^
 ||serviciocuentadesoporte.com^
@@ -65615,6 +65643,7 @@
 ||sippansy.com^
 ||sippingsunned.com^
 ||sippisoftware.com^
+||siqwfy.cn^
 ||sirdata.io^
 ||siredonlacs.com^
 ||sireundermineoperative.com^
@@ -73884,6 +73913,7 @@
 ||tygrove.com^
 ||tyh887.com^
 ||tyingatmosphericprocess.com^
+||tyiqebrbpxc.com^
 ||tyjawhesu.com^
 ||tyjnwa.top^
 ||tyjnwg.top^
@@ -74651,6 +74681,7 @@
 ||unlimitedhacks.com^
 ||unlimitedmoneycheatgta5.net^
 ||unlimitedtoable.org^
+||unloadpoetry.com^
 ||unlock-device.net^
 ||unlocked-accountid.com^
 ||unlockers.xyz^
@@ -75379,6 +75410,7 @@
 ||uu.domainforlite.com^
 ||uu.fuyihong.cn^
 ||uu1.3gu.com^
+||uu99k.com^
 ||uuaajohul.com^
 ||uuaauw.com^
 ||uuaoy.com^
@@ -78712,7 +78744,6 @@
 ||widget.shopstyle.com^
 ||widget.socialmart.ru^
 ||widget.tippebannere.no^
-||widget.trustpilot.com^
 ||widget.utinet.ru^
 ||widget.zenback.jp^
 ||widgetbucks.com^
@@ -83161,6 +83192,7 @@
 ||yuuuvutcxmgxsknp.com^
 ||yuuuxi.top^
 ||yuuykrunvh.com^
+||yuvvddt.cn^
 ||yuxiwine.com^
 ||yuyinqs.com^
 ||yuysikankhqvdwdv.xyz^
@@ -83604,6 +83636,7 @@
 ||zeroredirect6.com^
 ||zeroredirect7.com^
 ||zeroredirect8.com^
+||zerostats.com^
 ||zerowastecity.org^
 ||zesdmn.com^
 ||zesep.com^
@@ -108578,6 +108611,7 @@
 ||widget.shopstyle.com.au^
 ||widget.solarquotes.com.au^
 ||widget.stagram.com^
+||widget.trustpilot.com^
 ||widget.weibo.com^
 ||widget.whatshelp.io^
 ||widget.wombo.gg^
