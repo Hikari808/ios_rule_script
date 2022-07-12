@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-12 02:29:02
+# UPDATED: 2022-07-12 15:59:30
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 51325
+# DOMAIN: 51323
 # DOMAIN-KEYWORD: 84
-# DOMAIN-SUFFIX: 71740
+# DOMAIN-SUFFIX: 71773
 # IP-CIDR: 255
 # URL-REGEX: 303
-# TOTAL: 123707
+# TOTAL: 123738
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -21493,7 +21493,6 @@ id-service-information.net
 id.allegisgroup.com
 id.locked-applle.com
 id.mediawallahscript.com
-id6.me
 idas-sex-story.gocunt.com
 idbhsgy.com
 idbjhskxiablsi.com
@@ -26271,7 +26270,6 @@ log.120ask.com
 log.51wnl-cq.com
 log.aebn.net
 log.bling.samuraiworks.com
-log.cmpassport.com
 log.daqi.com
 log.event.hunantv.com
 log.getdropbox.com
@@ -26299,7 +26297,6 @@ log.vdisk.cn
 log.ventunotech.com
 log.worldnewsfeed.org
 log.ynet.com
-log1.cmpassport.com
 log2.mtime.cn
 log2.tapatalk.com
 logapi.dsipsw.net
@@ -32263,6 +32260,7 @@ openbetakeys.com
 opencdb84508.com
 opencdb84509.com
 opencheats.com
+opencloud.wostore.cn
 opencscase.com
 opencsgocase.com
 opendc-orange.com
@@ -52149,6 +52147,7 @@ zzzrtrcm2.com
 .26zsd.cn
 .272829.cc
 .272xb.com
+.27417130d3.com
 .2748cfaad3.com
 .2778255fe56.com
 .27823.club
@@ -53708,6 +53707,7 @@ zzzrtrcm2.com
 .9857064.hello.spriggy.com.au
 .9857064.notice.spriggy.com.au
 .9868.online
+.986808cb44.com
 .9869936.com
 .98765432100.online
 .98765432100.site
@@ -55196,6 +55196,7 @@ zzzrtrcm2.com
 .accelacomm.com
 .accelerationirreproachabledonation.com
 .accengage.net
+.acceptabletally.com
 .acceptiongere.site
 .acces.streaming-direct.co
 .access-analyze.org
@@ -62569,6 +62570,7 @@ zzzrtrcm2.com
 .bbbx.xyz
 .bbcc.yxlady.com
 .bbcoe.cn
+.bbcrgate.com
 .bbdm.051661.com
 .bbdsdy.com
 .bbeeejafhacbigaeih.ru
@@ -65771,6 +65773,7 @@ zzzrtrcm2.com
 .ccjxwlkj.com
 .ccjxybj.cn
 .ccjysdii.xyz
+.cckb.online
 .ccksdwtuzmadx.com
 .ccleaner.fr
 .cclnuzn.cn
@@ -66154,6 +66157,7 @@ zzzrtrcm2.com
 .cernamer.com
 .cernrefraidinterva.xyz
 .certainalmostcontent.com
+.certaintysurroundingcab.com
 .certakesime.site
 .certifica.com
 .certified-apps.com
@@ -66763,6 +66767,7 @@ zzzrtrcm2.com
 .cjt1.net
 .cjtsnykfedv.top
 .cjvdfw.com
+.cjwtkm.cn
 .cjwyvwbxpbo.com
 .cjy200107152004.ltd
 .ck-cdn.com
@@ -67446,6 +67451,7 @@ zzzrtrcm2.com
 .cmp.telerama.fr
 .cmp2.channelpartner.de
 .cmp288.com
+.cmpassport.com
 .cmpgns.net
 .cmplay.did.ijinshan.com
 .cmps.mt50ad.com
@@ -69568,6 +69574,7 @@ zzzrtrcm2.com
 .cythusheju.com
 .cyto-biotherapy.com
 .cytoclause.com
+.cytrd0.site
 .cytxt.com
 .cyulewkqz.com
 .cyveillance.com
@@ -69729,6 +69736,7 @@ zzzrtrcm2.com
 .d18t35yyry2k49.cloudfront.net
 .d19182vyfoustz.cloudfront.net
 .d191y0yd6d0jy4.cloudfront.net
+.d192r5l88wrng7.cloudfront.net
 .d196fri2z18sm.cloudfront.net
 .d19uh5b0umbjrr.cloudfront.net
 .d19xf4taj229i8.cloudfront.net
@@ -71676,6 +71684,7 @@ zzzrtrcm2.com
 .directrix.ru
 .directtrack.com
 .directuklye.co
+.directuklyecon.pics
 .diresozines.com
 .diressources.carte-gr.total.fr
 .dirgywhacks.com
@@ -72197,6 +72206,7 @@ zzzrtrcm2.com
 .dojx47ab4dyxi.cloudfront.net
 .dokaboka.com
 .dokauzob.top
+.dokawd.cn
 .doklam.wang
 .dol.tianya.cn
 .dol.tianyaui.cn
@@ -78334,6 +78344,7 @@ zzzrtrcm2.com
 .gfncg.cn
 .gfnormal00aa.com
 .gfnormal00aj.com
+.gfnormal00an.com
 .gfnttldx.com
 .gforanoppo.com
 .gforasale.club
@@ -78785,6 +78796,7 @@ zzzrtrcm2.com
 .gnaunbiu.rest
 .gnawinstruct.com
 .gnbunbiv.rest
+.gncunbiw.rest
 .gndrglsn.com
 .gnehataj.xyz
 .gneusqa.cn
@@ -82045,6 +82057,7 @@ zzzrtrcm2.com
 .iceman30.de
 .icemf.com
 .icepey.com
+.iceplant.hk
 .icequrfptodsat.top
 .icewaterhou.xyz
 .icfy.xyz
@@ -82102,6 +82115,7 @@ zzzrtrcm2.com
 .id3103.com
 .id5-sync.com
 .id528.com
+.id6.me
 .id9uep.ru
 .ida.cnool.net
 .idahoanpavies.com
@@ -82198,6 +82212,7 @@ zzzrtrcm2.com
 .ifactz.com
 .ifaeqvt.cn
 .ifc-edu.cn
+.ifdcvns.cn
 .ifdvlh.cn
 .ifeib.com
 .ifengad.3g.ifeng.com
@@ -85556,6 +85571,7 @@ zzzrtrcm2.com
 .kdanxmiirxh.xyz
 .kdata.fr
 .kdbumyha.com
+.kdcegqtdrtij.com
 .kdconstructionusa.com
 .kddtri.cn
 .kdieu.com
@@ -86252,6 +86268,7 @@ zzzrtrcm2.com
 .ks.5.p2l.info
 .ks.walkq.com
 .ks67.com
+.ksadrewrty.com
 .ksaggspp.xyz
 .ksdqhiaythajdv.com
 .ksdr.xyz
@@ -87898,6 +87915,7 @@ zzzrtrcm2.com
 .ljknem.com
 .ljlxy.cn
 .ljmei.com
+.ljmzugo.cn
 .ljqnbiogjp.com
 .ljrshdrbbmwae.xyz
 .ljrtb.cn
@@ -92589,6 +92607,7 @@ zzzrtrcm2.com
 .mscimg.com
 .mscklogtxblb.xyz
 .msclick2.kuwo.cn
+.mscoldness.com
 .mscs.svaeuzh.cn
 .msdfd.cn
 .msdhyexj.com
@@ -92866,6 +92885,7 @@ zzzrtrcm2.com
 .mwjpk.com
 .mwlucuvbyrff.com
 .mwor.gq
+.mworkh.buzz
 .mworkhovd.com
 .mwprotected.com
 .mwquick.com
@@ -93470,6 +93490,7 @@ zzzrtrcm2.com
 .neciqetlqkrajma.com
 .necklaceboarupstairs.com
 .ned.itv.com
+.nedassiu.buzz
 .nedinchestw.site
 .nedo96.cn
 .nedstat.com
@@ -93478,6 +93499,7 @@ zzzrtrcm2.com
 .nedstatbasic.net
 .nedstatpro.net
 .nedukeratio.com
+.nedukeratio.lol
 .neechube.net
 .neechuce.net
 .needfulforesightharness.com
@@ -93903,6 +93925,7 @@ zzzrtrcm2.com
 .nftqpw.com
 .nftvvjpla.com
 .nfwebminer.com
+.nfwtime.com
 .nfwvip.com
 .nfzplus.com
 .nfztms.com
@@ -102590,6 +102613,7 @@ zzzrtrcm2.com
 .rovettobirse.com
 .rovio-news-app.angrybirdsgame.com
 .rovion.com
+.rowemfg.com
 .rowensalmner.com
 .rowenspopped.website
 .rowfeedire.casa
@@ -110853,6 +110877,7 @@ zzzrtrcm2.com
 .tcoekdwnuveaisk.com
 .tcookie.usatoday.com
 .tcoxndk.hfgjdcbrv.xyz
+.tcpcharms.com
 .tcppu.com
 .tcrybv.com
 .tcs-asp.net
@@ -114045,6 +114070,7 @@ zzzrtrcm2.com
 .ttts.miyue17.com
 .ttus.tructiepbongda.me
 .ttwrhns.cn
+.ttwscqlqmbcb.com
 .ttxs8.xyz
 .ttylmex.cn
 .ttyvdilxsuorg.com
@@ -114291,6 +114317,7 @@ zzzrtrcm2.com
 .txgg2022bisheng.com
 .txie.club
 .txmboigodejgj.xyz
+.txmdgiscnlows.com
 .txmsw.mobi
 .txn.grabnetworks.com
 .txn.thenewsroom.com
@@ -115822,6 +115849,7 @@ zzzrtrcm2.com
 .ve.kj-cy.cn
 .ve001nz.com
 .ve6j.cn
+.veadmin.com
 .veanumb.biz
 .vebadu.com
 .vecturequotes.com
@@ -121021,6 +121049,7 @@ zzzrtrcm2.com
 .ydfz.org
 .ydgege.xyz
 .ydggvnh.cn
+.ydhwhz.cn
 .yditweb.cn
 .ydjs.zol.com.cn
 .ydlnt.com
@@ -121064,6 +121093,7 @@ zzzrtrcm2.com
 .yektanet.com
 .yellads.com
 .yellowacorn.net
+.yellowblue.io
 .yellowbrix.com
 .yellowto.com
 .yema.shop
@@ -121190,6 +121220,7 @@ zzzrtrcm2.com
 .yhti.net
 .yhvewh.aboutyou.ro
 .yhyped.stolplit.ru
+.yhz18.com
 .yhzbjz.com
 .yhzm.cc
 .yi.ximizi.com
