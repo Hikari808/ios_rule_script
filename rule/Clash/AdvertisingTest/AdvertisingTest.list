@@ -1,16 +1,19 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-12 16:00:16
-# DOMAIN: 45999
+# UPDATED: 2022-07-13 02:29:49
+# DOMAIN: 46025
 # DOMAIN-KEYWORD: 264
 # DOMAIN-SUFFIX: 89075
 # IP-CIDR: 256
-# TOTAL: 135594
+# TOTAL: 135620
+DOMAIN,01d0c91c0d.com
 DOMAIN,3p-geo.yahoo.com
 DOMAIN,3p-udc.yahoo.com
 DOMAIN,46186911.vtt
+DOMAIN,666683.xyz
 DOMAIN,80055404.vtt
+DOMAIN,98tang.lol
 DOMAIN,absurdapple.com
 DOMAIN,adfox.yandex.ru
 DOMAIN,adfstat.yandex.ru
@@ -18,7 +21,9 @@ DOMAIN,ads.yahoo.com
 DOMAIN,ads.youtube.com
 DOMAIN,adsdk.yandex.ru
 DOMAIN,an.yandex.ru
+DOMAIN,analytically.net
 DOMAIN,anxiousapples.com
+DOMAIN,apartslimlettuce.com
 DOMAIN,api.sec.miui.com
 DOMAIN,app.ssp.yahoo.com
 DOMAIN,appboy-images.com
@@ -26,45 +31,66 @@ DOMAIN,apple.www.letv.com
 DOMAIN,applebarq.com
 DOMAIN,applequan.com
 DOMAIN,applescringe.com
+DOMAIN,aufr67i8sten.com
 DOMAIN,awaps.yandex.ru
 DOMAIN,awsync.yandex.ru
+DOMAIN,barreraxyloid.com
 DOMAIN,bats.video.yahoo.com
 DOMAIN,beacon.search.yahoo.com
 DOMAIN,beap-bc.yahoo.com
+DOMAIN,bluntedhalvah.com
 DOMAIN,bs.yandex.ru
 DOMAIN,collector2c.zhihuishu.com
+DOMAIN,condoledownright.com
 DOMAIN,cookiex.ngd.yahoo.com
 DOMAIN,crypta.js
 DOMAIN,d1stxfv94hrhia.cloudfront
+DOMAIN,d3t3bxixsojwre.cloudfront.net
+DOMAIN,deep-content.io
 DOMAIN,efficientapplesimulator.com
 DOMAIN,fpb1.apple886.com
+DOMAIN,galileirice.com
 DOMAIN,ganon.yahoo.com
 DOMAIN,geo.yahoo.com
+DOMAIN,gndunbix.rest
 DOMAIN,https-apple.com
+DOMAIN,hust.cx
 DOMAIN,iadsdk.apple.com
 DOMAIN,ib.snssdk.com
 DOMAIN,informer.yandex.ru
+DOMAIN,inlive.link
 DOMAIN,jill.fc.yahoo.com
 DOMAIN,jpaasne.e.shifen.com
 DOMAIN,log.strm.yandex.ru
 DOMAIN,marketingsolutions.yahoo.com
 DOMAIN,mc.yandex.ru
 DOMAIN,mediaappletree.com
+DOMAIN,meilmei.xyz
 DOMAIN,meitaolianmeng.ltd
 DOMAIN,mm.n3w1d0ma1n
 DOMAIN,mo.vlpyj.xy
 DOMAIN,nol.yahoo.com
+DOMAIN,pendulumkeg.com
+DOMAIN,plebiancairn.com
 DOMAIN,pr.comet.yahoo.com
+DOMAIN,premiumdata.org
 DOMAIN,pv.sohu.com
 DOMAIN,rrf.fat1domain1
+DOMAIN,sautreesned.com
+DOMAIN,sesameasterisk.com
 DOMAIN,shackapple.com
 DOMAIN,stats.video.search.yahoo.com
 DOMAIN,sub.powerapple.com
 DOMAIN,supportmetrics.apple.com
+DOMAIN,tag.voice.zetacx.net
 DOMAIN,test.vast
 DOMAIN,theapple.site
+DOMAIN,tomboy.lol
+DOMAIN,uwdspsh.cn
 DOMAIN,visit.webhosting.yahoo.com
 DOMAIN,wzjs1.oss-accelerate.aliyuncs.com
+DOMAIN,yelmlrq.cn
+DOMAIN,yinxi888.com
 DOMAIN,youtube.local
 DOMAIN,0000mps.webpreview.dsl.net
 DOMAIN,0001.2waky.com

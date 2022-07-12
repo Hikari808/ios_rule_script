@@ -1,16 +1,19 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-12 16:00:16
-# DOMAIN: 45999
+# UPDATED: 2022-07-13 02:29:49
+# DOMAIN: 46025
 # DOMAIN-KEYWORD: 264
 # DOMAIN-SUFFIX: 89075
 # IP-CIDR: 256
-# TOTAL: 135594
+# TOTAL: 135620
+01d0c91c0d.com
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 46186911.vtt
+666683.xyz
 80055404.vtt
+98tang.lol
 absurdapple.com
 adfox.yandex.ru
 adfstat.yandex.ru
@@ -18,7 +21,9 @@ ads.yahoo.com
 ads.youtube.com
 adsdk.yandex.ru
 an.yandex.ru
+analytically.net
 anxiousapples.com
+apartslimlettuce.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
@@ -26,45 +31,66 @@ apple.www.letv.com
 applebarq.com
 applequan.com
 applescringe.com
+aufr67i8sten.com
 awaps.yandex.ru
 awsync.yandex.ru
+barreraxyloid.com
 bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
+bluntedhalvah.com
 bs.yandex.ru
 collector2c.zhihuishu.com
+condoledownright.com
 cookiex.ngd.yahoo.com
 crypta.js
 d1stxfv94hrhia.cloudfront
+d3t3bxixsojwre.cloudfront.net
+deep-content.io
 efficientapplesimulator.com
 fpb1.apple886.com
+galileirice.com
 ganon.yahoo.com
 geo.yahoo.com
+gndunbix.rest
 https-apple.com
+hust.cx
 iadsdk.apple.com
 ib.snssdk.com
 informer.yandex.ru
+inlive.link
 jill.fc.yahoo.com
 jpaasne.e.shifen.com
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
 mc.yandex.ru
 mediaappletree.com
+meilmei.xyz
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
 nol.yahoo.com
+pendulumkeg.com
+plebiancairn.com
 pr.comet.yahoo.com
+premiumdata.org
 pv.sohu.com
 rrf.fat1domain1
+sautreesned.com
+sesameasterisk.com
 shackapple.com
 stats.video.search.yahoo.com
 sub.powerapple.com
 supportmetrics.apple.com
+tag.voice.zetacx.net
 test.vast
 theapple.site
+tomboy.lol
+uwdspsh.cn
 visit.webhosting.yahoo.com
 wzjs1.oss-accelerate.aliyuncs.com
+yelmlrq.cn
+yinxi888.com
 youtube.local
 0000mps.webpreview.dsl.net
 0001.2waky.com
