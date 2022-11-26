@@ -13,5 +13,6 @@ HOST-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,ViuTV
 HOST-SUFFIX,viu.com,ViuTV
 HOST-SUFFIX,viu.now.com,ViuTV
 HOST-SUFFIX,viu.tv,ViuTV
+HOST-SUFFIX,d3o7oi00quuwqu.cloudfront.net,ViuTV
 USER-AGENT,Viu*,ViuTV
 USER-AGENT,ViuTV*,ViuTV
