@@ -4,7 +4,7 @@
 # UPDATED: 2022-06-23 17:32:46
 # HOST-SUFFIX: 8
 # USER-AGENT: 2
-# TOTAL: 10
+# TOTAL: 16
 HOST-SUFFIX,cognito-identity.us-east-1.amazonaws.com,ViuTV
 HOST-SUFFIX,d1k2us671qcoau.cloudfront.net,ViuTV
 HOST-SUFFIX,d2anahhhmp1ffz.cloudfront.net,ViuTV
@@ -14,5 +14,12 @@ HOST-SUFFIX,viu.com,ViuTV
 HOST-SUFFIX,viu.now.com,ViuTV
 HOST-SUFFIX,viu.tv,ViuTV
 HOST-SUFFIX,d3o7oi00quuwqu.cloudfront.net,ViuTV
+HOST-SUFFIX,launches.appsflyer.com,ViuTV
+HOST-SUFFIX,sg1.clevertap-prod.com,ViuTV
+HOST-SUFFIX,api2.appsflyer.com,ViuTV
+HOST-SUFFIX,49jpbyt3h3.execute-api.us-east-1.amazonaws.com,ViuTV
+HOST-SUFFIX,licensing.bitmovin.com,ViuTV
+HOST-SUFFIX,ssl.google-analytics.com,ViuTV
+HOST-SUFFIX,m.facebook.com,ViuTV
 USER-AGENT,Viu*,ViuTV
 USER-AGENT,ViuTV*,ViuTV
