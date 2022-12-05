@@ -2,9 +2,9 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-06-23 17:32:46
-# HOST-SUFFIX: 8
+# HOST-SUFFIX: 16
 # USER-AGENT: 2
-# TOTAL: 16
+# TOTAL: 18
 HOST-SUFFIX,cognito-identity.us-east-1.amazonaws.com,ViuTV
 HOST-SUFFIX,d1k2us671qcoau.cloudfront.net,ViuTV
 HOST-SUFFIX,d2anahhhmp1ffz.cloudfront.net,ViuTV
