@@ -1,13 +1,18 @@
-
-starplus.com
-bam-sdk-configs.bamgrid.com
-appconfigs.disney-plus.net
-cdn.registerdisney.go.com
-sdk.iad-03.braze.com
-7ba3f64df98de730df38846b54ecfbdf7f61f80f.ipv4.cws.conviva.com
-playback-certs.bamgrid.com
-star.playback.edge.bamgrid.com
-7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
-star.api.edge.bamgrid.com
-star.api.edge.bamgrid.com
-star.api.edge.bamgrid.com
+# NAME: Star+
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-12/06  23:20
+# HOST-SUFFIX: 12
+# TOTAL: 12
+HOST-SUFFIX,starplus.com,Star+
+HOST-SUFFIX,bam-sdk-configs.bamgrid.com,Star+
+HOST-SUFFIX,appconfigs.disney-plus.net,Star+
+HOST-SUFFIX,cdn.registerdisney.go.com,Star+
+HOST-SUFFIX,sdk.iad-03.braze.com,Star+
+HOST-SUFFIX,7ba3f64df98de730df38846b54ecfbdf7f61f80f.ipv4.cws.conviva.com,Star+
+HOST-SUFFIX,playback-certs.bamgrid.com,Star+
+HOST-SUFFIX,star.playback.edge.bamgrid.com,Star+
+HOST-SUFFIX,7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com,Star+
+HOST-SUFFIX,star.api.edge.bamgrid.com,Star+
+HOST-SUFFIX,star.api.edge.bamgrid.com,Star+
+HOST-SUFFIX,star.api.edge.bamgrid.com,Star+
