@@ -4,11 +4,11 @@
 # UPDATED: 2022-12-07 16:20
 # HOST-SUFFIX: 8
 # TOTAL: 8
-HOST-SUFFIX,googletagservices.com.Viu2
-HOST-SUFFIX,clients3.google.com.Viu2
-HOST-SUFFIX,ssl.google-analytics.com.Viu2
-HOST-SUFFIX,imasdk.googleapis.com.Viu2
-HOST-SUFFIX,pagead2.googlesyndication.com.Viu2
-HOST-SUFFIX,tpc.googlesyndication.com.Viu2
-HOST-SUFFIX,googleads.g.doubleclick.net.Viu2
-HOST-SUFFIX,googletagmanager.com.Viu2
+HOST-SUFFIX,www.googletagservices.com,ViuREJECT
+HOST-SUFFIX,clients3.google.com,ViuREJECT
+HOST-SUFFIX,ssl.google-analytics.com,ViuREJECT
+HOST-SUFFIX,imasdk.googleapis.com,ViuREJECT
+HOST-SUFFIX,pagead2.googlesyndication.com,ViuREJECT
+HOST-SUFFIX,tpc.googlesyndication.com,ViuREJECT
+HOST-SUFFIX,googleads.g.doubleclick.net,ViuREJECT
+HOST-SUFFIX,www.googletagmanager.com,ViuREJECT
