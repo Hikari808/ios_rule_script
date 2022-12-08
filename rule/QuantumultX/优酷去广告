@@ -1,0 +1,50 @@
+# NAME: YOUKU
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-11-30 22:00:00
+# HOST-SUFFIX: 44
+# TOTAL: 44
+HOST-SUFFIX,actives.youku.com,AdBlock
+HOST-SUFFIX,ad.api.3g.tudou.com,AdBlock
+HOST-SUFFIX,ad.api.3g.youku.com,AdBlock
+HOST-SUFFIX,ad.api.mobile.youku.com,AdBlock
+HOST-SUFFIX,ad.mobile.youku.com,AdBlock
+HOST-SUFFIX,a-dxk.play.api.3g.youku.com,AdBlock
+HOST-SUFFIX,b.smartvideo.youku.com,AdBlock
+HOST-SUFFIX,c.yes.youku.com,AdBlock
+HOST-SUFFIX,das.api.youku.com,AdBlock
+HOST-SUFFIX,das.mobile.youku.com,AdBlock
+HOST-SUFFIX,dev-push.m.youku.com,AdBlock
+HOST-SUFFIX,dl.g.youku.com,AdBlock
+HOST-SUFFIX,dmapp.youku.com,AdBlock
+HOST-SUFFIX,gamex.mobile.youku.com,AdBlock
+HOST-SUFFIX,hudong.pl.youku.com,AdBlock
+HOST-SUFFIX,huodong.pl.youku.com,AdBlock
+HOST-SUFFIX,huodong.vip.youku.com,AdBlock
+HOST-SUFFIX,hz.youku.com,AdBlock
+HOST-SUFFIX,iyes.youku.com,AdBlock
+HOST-SUFFIX,l.ykimg.com,AdBlock
+HOST-SUFFIX,lstat.youku.com,AdBlock
+HOST-SUFFIX,m.yes.youku.com,AdBlock
+HOST-SUFFIX,mobilemsg.youku.com,AdBlock
+HOST-SUFFIX,msg.youku.com,AdBlock
+HOST-SUFFIX,myes.youku.com,AdBlock
+HOST-SUFFIX,p.l.youku.com,AdBlock
+HOST-SUFFIX,passport-log.youku.com,AdBlock
+HOST-SUFFIX,p-log.ykimg.com,AdBlock
+HOST-SUFFIX,push.m.youku.com,AdBlock
+HOST-SUFFIX,r.l.youku.com,AdBlock
+HOST-SUFFIX,s.p.youku.com,AdBlock
+HOST-SUFFIX,sdk.api.gamex.mobile.youku.com,AdBlock
+HOST-SUFFIX,sdk.m.youku.com,AdBlock
+HOST-SUFFIX,stat.youku.com,AdBlock
+HOST-SUFFIX,store.tv.api.3g.youku.com,AdBlock
+HOST-SUFFIX,store.xl.api.3g.youku.com,AdBlock
+HOST-SUFFIX,tdrec.youku.com,AdBlock
+HOST-SUFFIX,test.ott.youku.com,AdBlock
+HOST-SUFFIX,urchin.lstat.youku.com,AdBlock
+HOST-SUFFIX,v.l.youku.com,AdBlock
+HOST-SUFFIX,val.api.youku.com,AdBlock
+HOST-SUFFIX,wan.youku.com,AdBlock
+HOST-SUFFIX,ykatr.youku.com,AdBlock
+HOST-SUFFIX,ykrec.youku.com,AdBlock
