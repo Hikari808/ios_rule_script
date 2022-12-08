@@ -1,0 +1,40 @@
+# NAME: Mango
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-11-30 22:03:00
+# HOST-SUFFIX: 36
+# TOTAL: 36
+HOST-SUFFIX,ads-api.videojj.com,AdBlock
+HOST-SUFFIX,cdn.cmop.mgtv.com,AdBlock
+HOST-SUFFIX,click.hunantv.com,AdBlock
+HOST-SUFFIX,cmop.mgtv.com,AdBlock
+HOST-SUFFIX,cytron.videojj.com,AdBlock
+HOST-SUFFIX,cytroncdn.videojj.com,AdBlock
+HOST-SUFFIX,da.hunantv.com,AdBlock
+HOST-SUFFIX,da.mgtv.com,AdBlock
+HOST-SUFFIX,imgaliyun.da.mgtv.com,AdBlock
+HOST-SUFFIX,imgaliyun.res.mgtv.com,AdBlock
+HOST-SUFFIX,m2.da.mgtv.com,AdBlock
+HOST-SUFFIX,me.videojj.com,AdBlock
+HOST-SUFFIX,mobaliyun.res.mgtv.com,AdBlock
+HOST-SUFFIX,mobile.da.mgtv.com,AdBlock
+HOST-SUFFIX,mobile2.da.mgtv.com,AdBlock
+HOST-SUFFIX,mp4.res.hunantv.com,AdBlock
+HOST-SUFFIX,pc.da.mgtv.com,AdBlock
+HOST-SUFFIX,pc1.da.mgtv.com,AdBlock
+HOST-SUFFIX,pcvideoaliyun.titan.mgtv.com,AdBlock
+HOST-SUFFIX,pcvideoyd.titan.mgtv.com,AdBlock
+HOST-SUFFIX,pcweb.v1.mgtv.com,AdBlock
+HOST-SUFFIX,plat.videojj.com,AdBlock
+HOST-SUFFIX,py.da.mgtv.com,AdBlock
+HOST-SUFFIX,res.hunantv.com,AdBlock
+HOST-SUFFIX,store.videojj.com,AdBlock
+HOST-SUFFIX,v2.da.mgtv.com,AdBlock
+HOST-SUFFIX,va.videojj.com,AdBlock
+HOST-SUFFIX,videojj.com,AdBlock
+HOST-SUFFIX,web.da.mgtv.com,AdBlock
+HOST-SUFFIX,x.da.hunantv.com,AdBlock
+HOST-SUFFIX,x.da.mgtv.com,AdBlock
+HOST-SUFFIX,x1.da.hunantv.com,AdBlock
+HOST-SUFFIX,y.da.hunantv.com,AdBlock
+HOST-SUFFIX,y.da.mgtv.com,AdBlock
