@@ -2,13 +2,10 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-12-9  13:43:00
-# HOST-SUFFIX: 6
-# TOTAL: 6
-HOST-SUFFIX,v.qq.com,TencentVideo
-HOST-SUFFIX,union.video.qq.com,TencentVideo
-HOST-SUFFIX,qqyy.com,TencentVideo
-HOST-SUFFIX,sports.qq.com,TencentVideo
-HOST-SUFFIX,t.qq.com,TencentVideo
-HOST-SUFFIX,vmind.qqvideo.tc.qq.com,TencentVideo
-HOST-SUFFIX,ent.qq.com,TencentVideo
-HOST-SUFFIX,888.sports.qq.com,TencentVideo
+# HOST-SUFFIX: 4
+# TOTAL: 4
+HOST-SUFFIX,trace.qq.com,TencentVideo
+HOST-SUFFIX,beacon.qq.com,TencentVideo
+HOST-SUFFIX,h.trace.qq.com,TencentVideo
+HOST-SUFFIX,otheve.beacon.qq.com,TencentVideo
+
