@@ -2,9 +2,9 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-11-30 21:06:00
-# HOST-SUFFIX: 6
-# TOTAL: 6
-HOST-SUFFIX,acgvideo.com,Bilibili
-HOST-SUFFIX,biliapi.com,Bilibili
-HOST-SUFFIX,biliapi.net,Bilibili
-HOST-SUFFIX,hdslb.com,Bilibili
+# HOST-SUFFIX: 4
+# TOTAL: 4
+HOST-SUFFIX,cm.bilibili.com,Bilibili
+HOST-SUFFIX,miniapp.bilibili.com,Bilibili
+HOST-SUFFIX,web-player-tracker.biliapi.net,Bilibili
+HOST-SUFFIX,dataflow.biliapi.com,Bilibili
