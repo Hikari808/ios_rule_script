@@ -1,41 +1,40 @@
-# NAME: iQiyi
+# NAME: iQYI
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-11-30 22:08:00
-# HOST-SUFFIX: 35
-# TOTAL: 35
-HOST-SUFFIX,a.ckm.iqiyi.com,AdBlock
-HOST-SUFFIX,ad.m.iqiyi.com,AdBlock
-HOST-SUFFIX,afp.iqiyi.com,AdBlock
-HOST-SUFFIX,androidgo.duapp.com,AdBlock
-HOST-SUFFIX,api.cupid.iqiyi.com,AdBlock
-HOST-SUFFIX,api.cupid.qiyi.com,AdBlock
-HOST-SUFFIX,c.uaa.iqiyi.com,AdBlock
-HOST-SUFFIX,cloudpush.iqiyi.com,AdBlock
-HOST-SUFFIX,cm.passport.iqiyi.com,AdBlock
-HOST-SUFFIX,count.game.pps.tv,AdBlock
-HOST-SUFFIX,cupid.iqiyi.com,AdBlock
-HOST-SUFFIX,emoticon.sns.iqiyi.com,AdBlock
-HOST-SUFFIX,game.pps.tv,AdBlock
-HOST-SUFFIX,gamecenter.iqiyi.com,AdBlock
-HOST-SUFFIX,ifacelog.iqiyi.com,AdBlock
-HOST-SUFFIX,mbdlog.iqiyi.com,AdBlock
-HOST-SUFFIX,msg.71.am,AdBlock
-HOST-SUFFIX,msg.qy.net,REJECT
-HOST-SUFFIX,msg.iqiyi.com,AdBlock
-HOST-SUFFIX,msg.video.qiyi.com,AdBlock
-HOST-SUFFIX,msg2.video.qiyi.com,AdBlock
-HOST-SUFFIX,msga.71.am,AdBlock
-HOST-SUFFIX,msga.cupid.iqiyi.com,AdBlock
-HOST-SUFFIX,nl.notice.iqiyi.com,AdBlock
-HOST-SUFFIX,nl.rcd.iqiyi.com,AdBlock
-HOST-SUFFIX,notice.iqiyi.com,AdBlock
-HOST-SUFFIX,noxagile.duapp.com,AdBlock
-HOST-SUFFIX,paopao.iqiyi.com,AdBlock
-HOST-SUFFIX,policy.video.iqiyi.com,AdBlock
-HOST-SUFFIX,static.g.iqiyi.com,AdBlock
-HOST-SUFFIX,static.g.ppstream.com,AdBlock
-HOST-SUFFIX,store.iqiyi.com,AdBlock
-HOST-SUFFIX,t7z.cupid.iqiyi.com,AdBlock
-HOST-SUFFIX,tracker.sns.iqiyi.com,AdBlock
-HOST-SUFFIX,yuedu.iqiyi.com,AdBlock
+# HOST-SUFFIX: 37
+# TOTAL: 37
+HOST-SUFFIX,api.cupid.dns.iqiyi.com,iQIYI
+HOST-SUFFIX,hotchat-im.iqiyi.com,iQIYI
+HOST-SUFFIX,ndct-data.video.iqiyi.com,iQIYI
+HOST-SUFFIX,a.ckm.iqiyi.com,iQIYI
+HOST-SUFFIX,ad.m.iqiyi.com,iQIYI
+HOST-SUFFIX,afp.iqiyi.com,iQIYI
+HOST-SUFFIX,baiducdncmn.inter.iqiyi.com,iQIYI
+HOST-SUFFIX,c.uaa.iqiyi.com,iQIYI
+HOST-SUFFIX,cloudpush.iqiyi.com,iQIYI
+HOST-SUFFIX,cm.passport.iqiyi.com,iQIYI
+HOST-SUFFIX,cs-feige.iqiyi.com,iQIYI
+HOST-SUFFIX,emoticon-sns.iqiyi.com,iQIYI
+HOST-SUFFIX,emoticon.sns.iqiyi.com,iQIYI
+HOST-SUFFIX,gamecenter.iqiyi.com,iQIYI
+HOST-SUFFIX,ifacelog.iqiyi.com,iQIYI
+HOST-SUFFIX,iqiyi.kim,iQIYI
+HOST-SUFFIX,iqiyi.pub,iQIYI
+HOST-SUFFIX,iqiyi.space,iQIYI
+HOST-SUFFIX,mbdlog.iqiyi.com,iQIYI
+HOST-SUFFIX,msg.iqiyi.com,iQIYI
+HOST-SUFFIX,nl-rcd.iqiyi.com,iQIYI
+HOST-SUFFIX,nl.rcd.iqiyi.com,iQIYI
+HOST-SUFFIX,notice.iqiyi.com,iQIYI
+HOST-SUFFIX,paopao.iqiyi.com,iQIYI
+HOST-SUFFIX,policy.video.iqiyi.com,iQIYI
+HOST-SUFFIX,puma-api.iqiyi.com,iQIYI
+HOST-SUFFIX,puma.api.iqiyi.com,iQIYI
+HOST-SUFFIX,search.video.iqiyi.com,iQIYI
+HOST-SUFFIX,static-s.iqiyi.com,iQIYI
+HOST-SUFFIX,static.g.iqiyi.com,iQIYI
+HOST-SUFFIX,store.iqiyi.com,iQIYI
+HOST-SUFFIX,subscription.iqiyi.com,iQIYI
+HOST-SUFFIX,tracker.sns.iqiyi.com,iQIYI
+HOST-SUFFIX,yuedu.iqiyi.com,iQIYI
