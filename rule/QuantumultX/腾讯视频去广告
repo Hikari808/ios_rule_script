@@ -1,82 +1,12 @@
 # NAME: TencentVideo
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-9  13:33:00
-# HOST-SUFFIX: 76
-# TOTAL: 76
-HOST-SUFFIX,mp.weixin.qq.com,TencentVideo
+# UPDATED: 2022-12-9  13:43:00
+# HOST-SUFFIX: 6
+# TOTAL: 6
 HOST-SUFFIX,v.qq.com,TencentVideo
 HOST-SUFFIX,video.qq.com,TencentVideo
 HOST-SUFFIX,union.video.qq.com,TencentVideo
-HOST-SUFFIX,cm.l.qq.com,TencentVideo
-HOST-SUFFIX,ssp.qq.com,TencentVideo
-HOST-SUFFIX,imgcache.qq.com,TencentVideo
-HOST-SUFFIX,new.qq.com,TencentVideo
-HOST-SUFFIX,news.ssp.qq.com,TencentVideo
-HOST-SUFFIX,wit.qq.com,TencentVideo
-HOST-SUFFIX,m.v.qq.com,TencentVideo
-HOST-SUFFIX,vmind.qqvideo.tc.qq.com,TencentVideo
-HOST-SUFFIX,3g.qq.com,TencentVideo
-HOST-SUFFIX,ac.tc.qq.com,TencentVideo
-HOST-SUFFIX,gdt.qq.com,TencentVideo
-HOST-SUFFIX,l.qq.com,TencentVideo
-HOST-SUFFIX,mail.qq.com,TencentVideo
-HOST-SUFFIX,info.3g.qq.com,TencentVideo
-HOST-SUFFIX,qm.qq.com,TencentVideo
-HOST-SUFFIX,qq260.com,TencentVideo
-HOST-SUFFIX,qq745.com,TencentVideo
-HOST-SUFFIX,qqcf.com,TencentVideo
-HOST-SUFFIX,qqddc.com,TencentVideo
-HOST-SUFFIX,qqfby.com,TencentVideo
-HOST-SUFFIX,qqjia.com,TencentVideo
-HOST-SUFFIX,qqk19.com,TencentVideo
-HOST-SUFFIX,qqpian.com,TencentVideo
-HOST-SUFFIX,qqtn.com,TencentVideo
-HOST-SUFFIX,qqxiazai.com,TencentVideo
 HOST-SUFFIX,qqyy.com,TencentVideo
-HOST-SUFFIX,skeyword.browser.qq.com,TencentVideo
-HOST-SUFFIX,qzone.qq.com,TencentVideo
-HOST-SUFFIX,myqqjd.com,TencentVideo
 HOST-SUFFIX,sports.qq.com,TencentVideo
-HOST-SUFFIX,ent.qq.com,TencentVideo
-HOST-SUFFIX,comic.qq.com,TencentVideo
 HOST-SUFFIX,t.qq.com,TencentVideo
-HOST-SUFFIX,ac.qq.com,TencentVideo
-HOST-SUFFIX,house.qq.com,TencentVideo
-HOST-SUFFIX,edu.qq.com,TencentVideo
-HOST-SUFFIX,games.qq.com,TencentVideo
-HOST-SUFFIX,user.qzone.qq.com,TencentVideo
-HOST-SUFFIX,feeds.qq.com,TencentVideo
-HOST-SUFFIX,xw.qq.com,TencentVideo
-HOST-SUFFIX,tech.qq.com,TencentVideo
-HOST-SUFFIX,i.qq.com,TencentVideo
-HOST-SUFFIX,zj.qq.com,TencentVideo
-HOST-SUFFIX,fashion.qq.com,TencentVideo
-HOST-SUFFIX,qqyouyue.com,TencentVideo
-HOST-SUFFIX,ke.qq.com,TencentVideo
-HOST-SUFFIX,cq.qq.com,TencentVideo
-HOST-SUFFIX,qqxiuzi.cn,TencentVideo
-HOST-SUFFIX,hb.qq.com,TencentVideo
-HOST-SUFFIX,mycq.qq.com,TencentVideo
-HOST-SUFFIX,2014.qq.com,TencentVideo
-HOST-SUFFIX,qqaiqin.com,TencentVideo
-HOST-SUFFIX,exp.qq.com,TencentVideo
-HOST-SUFFIX,wb.qq.com,TencentVideo
-HOST-SUFFIX,daoju.qq.com,TencentVideo
-HOST-SUFFIX,j.wit.qq.com,TencentVideo
-HOST-SUFFIX,livew.l.qq.com,TencentVideo
-HOST-SUFFIX,888.sports.qq.com,TencentVideo
-HOST-SUFFIX,captcha.qq.com,TencentVideo
-HOST-SUFFIX,tingqq.com,TencentVideo
-HOST-SUFFIX,pingjs.qq.com,TencentVideo
-HOST-SUFFIX,tajs.qq.com,TencentVideo
-HOST-SUFFIX,wpa.b.qq.com,TencentVideo
-HOST-SUFFIX,boss.qzone.qq.com,TencentVideo
-HOST-SUFFIX,egame.qq.com,TencentVideo
-HOST-SUFFIX,gameapp.qq.com,TencentVideo
-HOST-SUFFIX,kuaibao.qq.com,TencentVideo
-HOST-SUFFIX,view.inews.qq.com,TencentVideo
-HOST-SUFFIX,auto.qq.com,TencentVideo
-HOST-SUFFIX,dp3.qq.com,TencentVideo
-HOST-SUFFIX,isdspeed.qq.com,TencentVideo
-HOST-SUFFIX,tcss.qq.com,TencentVideo
