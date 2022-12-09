@@ -5,7 +5,6 @@
 # HOST-SUFFIX: 6
 # TOTAL: 6
 HOST-SUFFIX,v.qq.com,TencentVideo
-HOST-SUFFIX,video.qq.com,TencentVideo
 HOST-SUFFIX,union.video.qq.com,TencentVideo
 HOST-SUFFIX,qqyy.com,TencentVideo
 HOST-SUFFIX,sports.qq.com,TencentVideo
