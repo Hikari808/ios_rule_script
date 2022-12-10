@@ -1,33 +1,68 @@
 # NAME: TencentVideo
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-9  13:43:00
+# UPDATED: 2022-12-10  14:34:00
 # HOST-SUFFIX: 14
 # TOTAL: 14
-HOST-SUFFIX,otheve.beacon.qq.com,TencentVideo
-HOST-SUFFIX,h.trace.qq.com,TencentVideo
-HOST-SUFFIX,btrace.qq.com,TencentVideo
 HOST-SUFFIX,mtrace.qq.com,TencentVideo
-HOST-SUFFIX,pgdt.gtimg.cn,TencentVideo
-HOST-SUFFIX,rpt.gdt.qq.com,TencentVideo
-HOST-SUFFIX,tytx.m.cn.miaozhen.com,TencentVideo
-HOST-SUFFIX,v.gdt.qq.com,TencentVideo
-HOST-SUFFIX,vr.gdt.qq.com,TencentVideo
-HOST-SUFFIX,livep.l.qq.com,TencentVideo
-HOST-SUFFIX,aegis.qq.com,TencentVideo
-HOST-SUFFIX,rcgi.video.qq.com,TencentVideo
-HOST-SUFFIX,p.l.qq.com,TencentVideo
+HOST-SUFFIX,h.trace.qq.com,TencentVideo
+HOST-SUFFIX,config.ab.qq.com,TencentVideo
+HOST-SUFFIX,content.rconfig.qq.com,TencentVideo
+HOST-SUFFIX,rmonitor.qq.com,TencentVideo
 HOST-SUFFIX,omgid.qq.com,TencentVideo
-HOST-SUFFIX,trace.qq.com,TencentVideo
-HOST-SUFFIX,beacon.qq.com,TencentVideo
-IP-CIDR,60.188.73.167,TencentVideo
-IP-CIDR,117.68.4.165,TencentVideo
-IP-CIDR,117.68.4.161,TencentVideo
-IP-CIDR,220.170.92.70,TencentVideo
-IP-CIDR,220.169.153.63,TencentVideo
-IP-CIDR,183.134.9.94,TencentVideo
-IP-CIDR,60.188.72.212,TencentVideo
-IP-CIDR,60.188.72.207,TencentVideo
-IP-CIDR,113.219.184.239,TencentVideo
-IP-CIDR,183.134.9.69,TencentVideo
-IP-CIDR,117.68.4.170,TencentVideo
+HOST-SUFFIX,rdelivery.qq.com,TencentVideo
+HOST-SUFFIX,i.gtimg.cn,TencentVideo
+HOST-SUFFIX,pgdt.gtimg.cn,TencentVideo
+HOST-SUFFIX,disp-qryapi.3g.qq.com,TencentVideo
+HOST-SUFFIX,guid.tpns.tencent.com,TencentVideo
+HOST-SUFFIX,tgwsc.qq.com,TencentVideo
+HOST-SUFFIX,i.video.qq.com,TencentVideo
+HOST-SUFFIX,iacc.qq.com,TencentVideo
+HOST-SUFFIX,vc.qpic.cn,TencentVideo
+HOST-SUFFIX,otheve.beacon.qq.com,TencentVideo
+IP-CIDR,112.25.77.226/32,TencentVideo
+IP-CIDR,183.195.235.159/32,TencentVideo
+IP-CIDR,221.130.106.58/32,TencentVideo
+IP-CIDR,223 109.122 113/32,TencentVideo
+IP-CIDR,223.108.146.13/32,TencentVideo
+IP-CIDR,223.108.146.16/32,TencentVideo
+IP-CIDR,223.108.146.169/32,TencentVideo
+IP-CIDR,223.108.146.22/32,TencentVideo
+IP-CIDR,223.108.146.42/32,TencentVideo
+IP-CIDR,223.109.114.187/32,TencentVideo
+IP-CIDR,223.109.114.188/32,TencentVideo
+IP-CIDR,223.109.122.116/32,TencentVideo
+IP-CIDR,223.109.122.126/32,TencentVideo
+IP-CIDR,223.109.122.131/32,TencentVideo
+IP-CIDR,223.109.122.133/32,TencentVideo
+IP-CIDR,223.109.122.195/32,TencentVideo
+IP-CIDR,223.109.122.201/32,TencentVideo
+IP-CIDR,223.109.122.204/32,TencentVideo
+IP-CIDR,223.109.122.211/32,TencentVideo
+IP-CIDR,223.109.122.214/32,TencentVideo
+IP-CIDR,223.109.122.218/32,TencentVideo
+IP-CIDR,223.109.122.223/32,TencentVideo
+IP-CIDR,223.109.122.228/32,TencentVideo
+IP-CIDR,223.109.122.241/32,TencentVideo
+IP-CIDR,223.109.122.84/32,TencentVideo
+IP-CIDR,223.111.191.125/32,TencentVideo
+IP-CIDR,223.111.191.138/32,TencentVideo
+IP-CIDR,223.111.191.156/32,TencentVideo
+IP-CIDR,223.111.191.163/32,TencentVideo
+IP-CIDR,223.111.191.182/32,TencentVideo
+IP-CIDR,223.111.191.198/32,TencentVideo
+IP-CIDR,223.111.191.253/32,TencentVideo
+IP-CIDR,223.111.211.168/32,TencentVideo
+IP-CIDR,223.112.238.19/32,TencentVideo
+IP-CIDR,223.113.133.165/32,TencentVideo
+IP-CIDR,36 155 2472/32,TencentVideo
+IP-CIDR,36.152.221.13/32,TencentVideo
+IP-CIDR,36.152.221.130/32,TencentVideo
+IP-CIDR,36.152.221.14/32,TencentVideo
+IP-CIDR,36.155.24.125/32,TencentVideo
+IP-CIDR,36.155.24.238/32,TencentVideo
+IP-CIDR,36.155.24.244/32,TencentVideo
+IP-CIDR,36.155.24.253/32,TencentVideo
+IP-CIDR,36.155.24.55/32,TencentVideo
+IP-CIDR,36.156.168.139/32,TencentVideo
+IP-CIDR,36.156.168.151/32,TencentVideo
