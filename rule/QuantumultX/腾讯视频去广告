@@ -1,21 +1,85 @@
 # NAME: TencentVideo
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-10  14:34:00
-# HOST-SUFFIX: 14
-# TOTAL: 14
-HOST-SUFFIX,mtrace.qq.com,TencentVideo
-HOST-SUFFIX,h.trace.qq.com,TencentVideo
+# UPDATED: 2022-12-10  15:53:00
+# HOST-SUFFIX: 78
+# TOTAL: 78
+
+HOST-SUFFIX,aedns.weixin.qq.com,TencentVideo
+HOST-SUFFIX,aegis.qq.com,TencentVideo
+HOST-SUFFIX,api.poll.video.qq.com,TencentVideo
+HOST-SUFFIX,api.unipay.qq.com,TencentVideo
+HOST-SUFFIX,api-tvc.weishi.qq.com,TencentVideo
+HOST-SUFFIX,appcfg.v.qq.com,TencentVideo
+HOST-SUFFIX,btrace.qq.com,TencentVideo
+HOST-SUFFIX,cdn-go.cn,TencentVideo
+HOST-SUFFIX,cloud.tgpa.qq.com,TencentVideo
+HOST-SUFFIX,community.image.video.qpic.cn,TencentVideo
 HOST-SUFFIX,config.ab.qq.com,TencentVideo
+HOST-SUFFIX,connect.play.ott.video.qq.com,TencentVideo
 HOST-SUFFIX,content.rconfig.qq.com,TencentVideo
-HOST-SUFFIX,rmonitor.qq.com,TencentVideo
-HOST-SUFFIX,omgid.qq.com,TencentVideo
-HOST-SUFFIX,rdelivery.qq.com,TencentVideo
-HOST-SUFFIX,i.gtimg.cn,TencentVideo
-HOST-SUFFIX,pgdt.gtimg.cn,TencentVideo
+HOST-SUFFIX,dispatcher.is.autonavi.com,TencentVideo
 HOST-SUFFIX,disp-qryapi.3g.qq.com,TencentVideo
+HOST-SUFFIX,dm.video.qq.com,TencentVideo
+HOST-SUFFIX,dp3.qq.com,TencentVideo
+HOST-SUFFIX,dpic.ch,TencentVideo
+HOST-SUFFIX,file.video.qpic.cn,TencentVideo
+HOST-SUFFIX,film.aq.com,TencentVideo
 HOST-SUFFIX,guid.tpns.tencent.com,TencentVideo
-HOST-SUFFIX,tgwsc.qq.com,TencentVideo
-HOST-SUFFIX,vc.qpic.cn,TencentVideo
-HOST-SUFFIX,otheve.beacon.qq.com,TencentVideo
+HOST-SUFFIX,h.trace.qq.com,TencentVideo
+HOST-SUFFIX,hc.tdm.qq.com,TencentVideo
+HOST-SUFFIX,i.gtimg.cn,TencentVideo
 HOST-SUFFIX,iacc.qq.com,TencentVideo
+HOST-SUFFIX,ilive.qq.com,TencentVideo
+HOST-SUFFIX,image.video.qpic.cn,TencentVideo
+HOST-SUFFIX,info4.video.qq.com,TencentVideo
+HOST-SUFFIX,ins-eeww7kom.ias.tencent-cloud.net,TencentVideo
+HOST-SUFFIX,into6.video.gg.com,TencentVideo
+HOST-SUFFIX,livep.l.aq.com,TencentVideo
+HOST-SUFFIX,live-pic-cdn.ilive.qq.com,TencentVideo
+HOST-SUFFIX,m.film.qq.com,TencentVideo
+HOST-SUFFIX,m.v.qq.com,TencentVideo
+HOST-SUFFIX,mazu.m.qq.com,TencentVideo
+HOST-SUFFIX,mcgi.v.qq.com,TencentVideo
+HOST-SUFFIX,midas.gtimg.cn,TencentVideo
+HOST-SUFFIX,mtrace.qq.com,TencentVideo
+HOST-SUFFIX,node.video.gg.com,TencentVideo
+HOST-SUFFIX,omgid.qq.com,TencentVideo
+HOST-SUFFIX,oth.str.beacon.qq.com,TencentVideo
+HOST-SUFFIX,otheve.beacon.qq.com,TencentVideo
+HOST-SUFFIX,p.l.qq.com,TencentVideo
+HOST-SUFFIX,pay.video.qq.com,TencentVideo
+HOST-SUFFIX,pbaccess.video.qq.com,TencentVideo
+HOST-SUFFIX,pgdt.gtimg.cn,TencentVideo
+HOST-SUFFIX,r.release.qq.com,TencentVideo
+HOST-SUFFIX,raw.githubusercontent.com,TencentVideo
+HOST-SUFFIX,rconfig-1258344701.file.myqcloud.com,TencentVideo
+HOST-SUFFIX,rdelivery.qq.com,TencentVideo
+HOST-SUFFIX,richmedia.video.qq.com,TencentVideo
+HOST-SUFFIX,rmonitor.qq.com,TencentVideo
+HOST-SUFFIX,rpt.gdt.qq.com,TencentVideo
+HOST-SUFFIX,safebrowsing.googleapis.com,TencentVideo
+HOST-SUFFIX,szmg.qq.com,TencentVideo
+HOST-SUFFIX,tab.video.qq.com,TencentVideo
+HOST-SUFFIX,tenvideo.file.video.qpic.cn,TencentVideo
+HOST-SUFFIX,tgwsc.qq.com,TencentVideo
+HOST-SUFFIX,tv.ott.video.qq.com,TencentVideo
+HOST-SUFFIX,tv.video.qq.com,TencentVideo
+HOST-SUFFIX,tx.Ink0.com,TencentVideo
+HOST-SUFFIX,tytx.m.cn.miaozhen.com,TencentVideo
+HOST-SUFFIX,ugc-upload.3g.qq.com,TencentVideo
+HOST-SUFFIX,up-hl.3g.qq.com,TencentVideo
+HOST-SUFFIX,v.gdt.qq.com,TencentVideo
+HOST-SUFFIX,v.qq.com,TencentVideo
+HOST-SUFFIX,vb.yuewen.com,TencentVideo
+HOST-SUFFIX,vfiles.gtimg.cn,TencentVideo
+HOST-SUFFIX,video-public-1258344701.shiply-cdn.qq.com,TencentVideo
+HOST-SUFFIX,vip.video.qq.com,TencentVideo
+HOST-SUFFIX,vipcdn.video.qq.com,TencentVideo
+HOST-SUFFIX,vm.gtimg.cn,TencentVideo
+HOST-SUFFIX,vmmp.apic.cn,TencentVideo
+HOST-SUFFIX,vpic.cms.qq.com,TencentVideo
+HOST-SUFFIX,vr.gdt.qq.com,TencentVideo
+HOST-SUFFIX,vv.play.ott.video.qq.com,TencentVideo
+HOST-SUFFIX,xsweb.gdt.qq.com,TencentVideo
+HOST-SUFFIX,yoo.gtimg.com,TencentVideo
