@@ -18,3 +18,16 @@ HOST-SUFFIX,aegis.qq.com,TencentVideo
 HOST-SUFFIX,rcgi.video.qq.com,TencentVideo
 HOST-SUFFIX,p.l.qq.com,TencentVideo
 HOST-SUFFIX,omgid.qq.com,TencentVideo
+HOST-SUFFIX,trace.qq.com,TencentVideo
+HOST-SUFFIX,beacon.qq.com,TencentVideo
+IP-CIDR,60.188.73.167,TencentVideo
+IP-CIDR,117.68.4.165,TencentVideo
+IP-CIDR,117.68.4.161,TencentVideo
+IP-CIDR,220.170.92.70,TencentVideo
+IP-CIDR,220.169.153.63,TencentVideo
+IP-CIDR,183.134.9.94,TencentVideo
+IP-CIDR,60.188.72.212,TencentVideo
+IP-CIDR,60.188.72.207,TencentVideo
+IP-CIDR,113.219.184.239,TencentVideo
+IP-CIDR,183.134.9.69,TencentVideo
+IP-CIDR,117.68.4.170,TencentVideo
