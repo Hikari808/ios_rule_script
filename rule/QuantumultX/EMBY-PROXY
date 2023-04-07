@@ -1,0 +1,15 @@
+# NAME: EMBY-PROXY
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-4-7  9:25:00
+# HOST-SUFFIX: 9
+# TOTAL: 9
+HOST-SUFFIX,pub1.emby.wtf,EMBY-PROXY
+HOST-SUFFIX,pub2.emby.wtf,EMBY-PROXY
+HOST-SUFFIX,pub3.emby.wtf,EMBY-PROXY
+HOST-SUFFIX,pub4.emby.wtf,EMBY-PROXY
+HOST-SUFFIX,cf.jmsooo.com,EMBY-PROXY
+HOST-SUFFIX,ha.jmsooo.com,EMBY-PROXY
+HOST-SUFFIX,202.61.255.248,EMBY-PROXY
+HOST-SUFFIX,media.nijigem.by,EMBY-PROXY
+HOST-SUFFIX,av.happyav.eu.org,EMBY-PROXY
