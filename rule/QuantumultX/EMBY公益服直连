@@ -1,14 +1,14 @@
-# NAME: EMBY DIRECT
+# NAME: EMBY-DIRECT
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2023-4-7  9:20:00
 # HOST-SUFFIX: 8
 # TOTAL: 8
-HOST-SUFFIX,https://direct.nebula-emby.com,EMBY DIRECT
-HOST-SUFFIX,http://df.poloemby.xyz,EMBY DIRECT
-HOST-SUFFIX,https://bsem.otoou.com,EMBY DIRECT
-HOST-SUFFIX,cf2.misakaf.org,EMBY DIRECT
-HOST-SUFFIX,https://film.goodisp.org,EMBY DIRECT
-HOST-SUFFIX,http://infinityfly.top,EMBY DIRECT
-HOST-SUFFIX,http://jp01.mjjemby.org,EMBY DIRECT
-HOST-SUFFIX,https://bili.bili.rip,EMBY DIRECT
+HOST-SUFFIX,https://direct.nebula-emby.com,EMBY-DIRECT
+HOST-SUFFIX,http://df.poloemby.xyz,EMBY-DIRECT
+HOST-SUFFIX,https://bsem.otoou.com,EMBY-DIRECT
+HOST-SUFFIX,cf2.misakaf.org,EMBY-DIRECT
+HOST-SUFFIX,https://film.goodisp.org,EMBY-DIRECT
+HOST-SUFFIX,http://infinityfly.top,EMBY-DIRECT
+HOST-SUFFIX,http://jp01.mjjemby.org,EMBY-DIRECT
+HOST-SUFFIX,https://bili.bili.rip,EMBY-DIRECT
